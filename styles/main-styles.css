@@ -3,7 +3,7 @@ h1 {
     color: rgb(0, 47, 255);
 }
 body {
-    background-color: peachpuff;
+    background-color: rgba(43, 33, 24, 0.034);
     border: 2px solid red
 }
 .main-content {
