@@ -1,4 +1,13 @@
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: chartreuse;
+    color: rgb(0, 47, 255);
+}
+body {
+    background-color: peachpuff;
+    border: 2px solid red
+}
+.main-content {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(233, 14, 14);
+    font-size: medium;
 }
